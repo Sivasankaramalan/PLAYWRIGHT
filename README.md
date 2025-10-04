@@ -25,7 +25,6 @@ After installation your VSC testing tab should look like this:
 To check if linter works properly open this file: tests/example.spec.ts
 
 To check:
-
 1. Auto format on save
 2. Properly linting Playwright tests files
 3. Running PW tests is possible.
